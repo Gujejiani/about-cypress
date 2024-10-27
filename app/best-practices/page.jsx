@@ -9,6 +9,7 @@ const items = [
       not be common`,
       id: '1',
     },
+    
     {
         summary: 'Best Practice #2) Use stable selectors',
         details: `Use data-* attributes to provide context to your 
